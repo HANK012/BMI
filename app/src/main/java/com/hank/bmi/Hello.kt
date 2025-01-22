@@ -10,5 +10,6 @@ fun main() {
     val name="HANK"
     println(name.get(2))
     var number=200; //var:變數
+    val weight:Float=66.5f
 
 }
